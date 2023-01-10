@@ -1,0 +1,1 @@
+esse programa cria uma lista, nuuma tabela excell e te permite cadastrar, excluir e ver pessoas(clientes, usuarios ...) e seus dados.
